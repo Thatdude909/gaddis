@@ -1,0 +1,114 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		D2D1DB581D33878900F32EC4 /* Chapter01 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter01; sourceTree = "<group>"; };
+		D2D1DB591D33878900F32EC4 /* Chapter02 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter02; sourceTree = "<group>"; };
+		D2D1DB5A1D33878900F32EC4 /* Chapter03 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter03; sourceTree = "<group>"; };
+		D2D1DB5B1D33878900F32EC4 /* Chapter04 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter04; sourceTree = "<group>"; };
+		D2D1DB5C1D33878900F32EC4 /* Chapter05 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter05; sourceTree = "<group>"; };
+		D2D1DB5D1D33878900F32EC4 /* Chapter06 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter06; sourceTree = "<group>"; };
+		D2D1DB5E1D33878900F32EC4 /* Chapter07 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter07; sourceTree = "<group>"; };
+		D2D1DB5F1D33878900F32EC4 /* Chapter08 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter08; sourceTree = "<group>"; };
+		D2D1DB601D33878900F32EC4 /* Chapter09 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter09; sourceTree = "<group>"; };
+		D2D1DB611D33878900F32EC4 /* Chapter10 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter10; sourceTree = "<group>"; };
+		D2D1DB621D33878900F32EC4 /* Chapter11 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter11; sourceTree = "<group>"; };
+		D2D1DB631D33878900F32EC4 /* Chapter12 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter12; sourceTree = "<group>"; };
+		D2D1DB641D33878900F32EC4 /* Chapter13 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter13; sourceTree = "<group>"; };
+		D2D1DB651D33878900F32EC4 /* Chapter14 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter14; sourceTree = "<group>"; };
+		D2D1DB661D33878900F32EC4 /* Chapter15 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter15; sourceTree = "<group>"; };
+		D2D1DB671D33878900F32EC4 /* Chapter16 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter16; sourceTree = "<group>"; };
+		D2D1DB681D33878900F32EC4 /* Chapter17 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter17; sourceTree = "<group>"; };
+		D2D1DB691D33878900F32EC4 /* Chapter18 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter18; sourceTree = "<group>"; };
+		D2D1DB6A1D33878900F32EC4 /* Chapter19 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter19; sourceTree = "<group>"; };
+		D2D1DB6B1D33878900F32EC4 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		D2D1DB6C1D33878900F32EC4 /* OnlineAppendices */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OnlineAppendices; sourceTree = "<group>"; };
+		D2D1DB6D1D33878900F32EC4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		D2D1DB291D33854D00F32EC4 = {
+			isa = PBXGroup;
+			children = (
+				D2D1DB581D33878900F32EC4 /* Chapter01 */,
+				D2D1DB591D33878900F32EC4 /* Chapter02 */,
+				D2D1DB5A1D33878900F32EC4 /* Chapter03 */,
+				D2D1DB5B1D33878900F32EC4 /* Chapter04 */,
+				D2D1DB5C1D33878900F32EC4 /* Chapter05 */,
+				D2D1DB5D1D33878900F32EC4 /* Chapter06 */,
+				D2D1DB5E1D33878900F32EC4 /* Chapter07 */,
+				D2D1DB5F1D33878900F32EC4 /* Chapter08 */,
+				D2D1DB601D33878900F32EC4 /* Chapter09 */,
+				D2D1DB611D33878900F32EC4 /* Chapter10 */,
+				D2D1DB621D33878900F32EC4 /* Chapter11 */,
+				D2D1DB631D33878900F32EC4 /* Chapter12 */,
+				D2D1DB641D33878900F32EC4 /* Chapter13 */,
+				D2D1DB651D33878900F32EC4 /* Chapter14 */,
+				D2D1DB661D33878900F32EC4 /* Chapter15 */,
+				D2D1DB671D33878900F32EC4 /* Chapter16 */,
+				D2D1DB681D33878900F32EC4 /* Chapter17 */,
+				D2D1DB691D33878900F32EC4 /* Chapter18 */,
+				D2D1DB6A1D33878900F32EC4 /* Chapter19 */,
+				D2D1DB6B1D33878900F32EC4 /* LICENSE */,
+				D2D1DB6C1D33878900F32EC4 /* OnlineAppendices */,
+				D2D1DB6D1D33878900F32EC4 /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		D2D1DB2A1D33854D00F32EC4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = D2D1DB2D1D33854D00F32EC4 /* Build configuration list for PBXProject "gaddis" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D2D1DB291D33854D00F32EC4;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D2D1DB2E1D33854D00F32EC4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		D2D1DB2F1D33854D00F32EC4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D2D1DB2D1D33854D00F32EC4 /* Build configuration list for PBXProject "gaddis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D2D1DB2E1D33854D00F32EC4 /* Debug */,
+				D2D1DB2F1D33854D00F32EC4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D2D1DB2A1D33854D00F32EC4 /* Project object */;
+}
